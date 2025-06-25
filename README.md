@@ -75,12 +75,6 @@ Proficient in Java, Python, Flutter, and MERN stack.
 
 ---
 
-## 📌 Pinned Projects:
-
-[👉 Go to my repositories to explore my pinned projects](https://github.com/imyeasin19?tab=repositories)
-
----
-
 ## 📍 Location:
 Dhaka, Bangladesh
 
