@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="[https://i.ibb.co/2SstY1p/banner.png](https://github.com/imyeasin19/imyeasin19/blob/main/github-header-image.png)" alt="Banner" width="100%" />
+<img src="https://github.com/imyeasin19/imyeasin19/blob/main/github-header-image.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi, I'm Md Yeasin 👋</h1>
 <h3 align="center">Aspiring Full Stack Web Developer | CSE Graduate | Passionate Problem Solver</h3>
